@@ -1,0 +1,1 @@
+In this study, it includes exercises about python data structures, operational operations, functions, if-else-for loops, list compheransion structures. I used Numpy, Pandas, Seaborn libraries.
